@@ -1,28 +1,133 @@
-*{
-    margin: 0%;
-    padding:0;
-    display: ;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Fredoka", sans-serif;
+    font-size: 16px;
+  }
+  
+.container {
+    width: 100%;
+    max-width: 960px;
+    min-width: 500px;
+    min-height: 300px;
+    margin: 0 auto;
+    /* padding: 2em 1em; */
+  }
+.section{
+    padding: 4rem 0;
+  }
+.bg-pink{
+    background-color: #EE82EE;
 }
-
-main{
+.bg-jumbotron{
+      background-color: #00008B;
+  }
+.bg-gray{
+      background-color: lightgray;
+  }
+.bg-gray-plus{
+    background-color: lightgray;
+}
+.section-header{
+    background-color: #ADD8E6;
+    width: 100%;
+    min-height: 60px;
+    min-width: 500px;
+}
+.container-header{
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    padding: 30px;
+    
 }
-header{
-    background-color: aqua;
-    min-height: 80px;
+.col{
+    background-color: #DAA520;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
 
 }
-
-.row{
-    
-    min-height: 200px;
-    background-color: brown;
-    min-width: 150px;
+.col-2{
+    width: 960px;
+    border: 1px dashed red;
+    text-align: center;
 }
-.main-content{
-    
-    min-height: 400px;
-    background-color: rgb(12, 141, 81);
+.d-flex{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.square-small{
+    background-color: #1E90FF;
     flex-grow: 1;
+    min-height: 300px;
 }
-
+.square-large{
+    background-color: #FFC0CB;
+    flex-grow: 2;
+    min-height: 300px;
+}
+.bg-green{
+    background-color: #228B22;
+    width: 100%;
+    max-width: 960px;
+    min-width: 500px;
+    min-height: 700px;
+    margin: 0 auto;
+    
+}
+.no-reverse{
+    flex-direction: row;
+}
+.bg-black{
+    background-color: black;
+    
+}
+.square-footer{
+    width: 100%;
+    max-width: 960px;
+    min-width: 319px;
+    min-height: 550px;
+    margin: auto;
+    flex-direction: column;
+    background-color: aquamarine;
+    border:1px dashed red
+}
+.square-1{
+    background-color: #542358;
+    
+}
+.container-log-footer{
+    max-width: 1097px;
+    min-width: 400px;
+    min-height: 100px;
+    margin: 0 auto;
+    background: aqua;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.col-footer{
+    margin-bottom: 20px;
+}
+.log{
+    display: flex;
+    justify-content: space-between;
+}
+.logo-footer{
+    width: 70px;
+    height: 30px;
+    background-color: #EE82EE;
+}
+.button-footer{
+    width: 70px;
+    height: 30px;
+    background-color: #EE82EE;
+}
