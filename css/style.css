@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding:0;
+    display: ;
+}
+
+main{
+    display: flex;
+}
+header{
+    background-color: aqua;
+    min-height: 80px;
+
+}
+
+.row{
+    
+    min-height: 200px;
+    background-color: brown;
+    min-width: 150px;
+}
+.main-content{
+    
+    min-height: 400px;
+    background-color: rgb(12, 141, 81);
+    flex-grow: 1;
+}
+
