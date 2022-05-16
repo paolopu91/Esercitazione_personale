@@ -1,0 +1,77 @@
+#
+- Controlliamo il frigo per vedere cosa manca
+- controlliamo anche il freezer
+- controlliamo anche gli scaffali
+- Scriviamo tutto quello che manca su una lista
+    - SE non abbiamo un alimento o un prodotto
+        - lo compriamo in grandi quantità
+    - ALTRIMENTI
+        - SE è in piccola quantità
+            - Lo riforniamo
+- prendo il portafogli
+- prendo il coupon di mia madre
+- Verifico se ho delle buste a casa da potermi portare
+    - SE le ho
+        - Le porterò con me
+- Verifico dove si trova il supermercato
+    - SE è lontano da casa
+        - allora prendo l'auto
+    - ALTRIMENTI
+        - SE è vicino casa
+            - vado a piedi
+- arrivo al supermercato
+- vado verso l'entrata
+- entro al supermercato
+- prendo il carrello
+- tiro fuori la lista
+- inizio a girare tra gli scaffali
+- Vado a prendere le crocchette preferite di Ricky
+- Verifico la lista
+    - SE trovo il prodotto
+        - lo depenno dalla lista
+        - prendo il prodotto
+        - lo metto nel carrello
+    - ALTRIMENTI
+        - SE non trovo il prodotto
+            - Cerco un addetto per chiedere informazioni
+                - SE il prodotto è veramente mancante
+                    - allora passerò al prossimo prodotto
+                - ALTRIMENTI
+                    - Attendi che il commesso ti porti il prodotto
+                        - lo depenni dalla lista
+                        - lo prendi
+                        - lo metti nel carrello
+- ricontrollo la lista per sicurezza
+- controllo il budget 
+    - SE rientro nel budget
+        -verifico se posso comprare degli snack
+        - SE rientrano nel budget
+            - prenderò due tavolette di cioccolata milka
+        - ALTRIMENTI
+            - SE non ho soldi sufficienti, per le tavolette
+                - allora prenderò un pacco di biscotti
+
+    - ALTRIMENTI
+        -SE il valore del carrello è maggiore del budget
+            -allora scelgo un prodotto da lasciare
+            - ricontrollo il budget
+- vado verso le casse
+- verifico quale è la cassa piu' veloce
+- mi metto in fila
+- quando arriva il mio turno, posizioni i prodotti sul nastro
+    - SE ho la carta fedelta' con me
+        - la darò alla cassiera
+- Verifico mi serviranno delle buste
+    - SE non le ho portate da casa
+        - chiederò delle buste alla cassiera
+- Inizio ad imbustare la spesa
+- pago 
+    -SE c'è il resto
+        - prenderò il resto
+- prendo la spesa
+- vado verso l'uscita del supermercato
+- esco
+- vado verso casa
+
+    
+            
