@@ -56,3 +56,5 @@ for(let i = 11; i > (11-5); i--){
     // for(let i= numeriRandom.length -5 ; i<numeriRandom.length; i++){
     //     ultimiNumeriRandom.unshift(numeriRandom[i]);
     // }
+
+    // CONTROLLA ESERCIZIO DI FLORIAN PER VEDERE TUTTA LA CORREZIONE
