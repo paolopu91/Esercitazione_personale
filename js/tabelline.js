@@ -17,12 +17,11 @@ btnCalcola.addEventListener("click", function () {
     let resultListHtml= document.querySelector(".result-list")
 
     // Questo risultato serve per far scomparire i risultati precedenti all'interno del form
-    
     // in pratica usiamo il nostro innerHTML senza niente tra le virgolette
     // per resettare ad ogni cambio di tabellina il campo, in modo da non sovrapporre o meglio
     // non aggiungere una lista infinita di numeri
-
     resultListHtml.innerHTML = "";
+    
 
     for (let i = 1; i <= 10; i++) {
        const risultato = moltiplicatore * i;
